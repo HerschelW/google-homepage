@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+
+#store {
+    margin-left: 0.3%;
+    padding: 0.5%;
+}
+
+#about {
+    margin-left: 2%;
+}
