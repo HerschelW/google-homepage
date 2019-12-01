@@ -48,7 +48,7 @@ table {
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #566A7D;
     font-size: 13px;
     font-family: Arial, sans-serif;
     margin-right: 30px;
@@ -81,12 +81,20 @@ ul {
       border-radius: 50%;
   }
 
+  .icon {
+      height: 30px;
+      width: 30px;
+      vertical-align: middle;
+      color: #566A7D;
+  }
+
   footer { 
       position: fixed;
       right: 5%;
       bottom: 0;
       width: 90%;
       line-height: 2;
+      padding-bottom: 20px;
   } 
 
   .bottom-right, .top-right {
